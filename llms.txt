@@ -10,17 +10,20 @@
 |-------|---------|
 | Title | Shosta Shopno |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 07, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/shosta-shopno/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Sync Licensing for Shosta Shopno](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get Permission to Use Shosta Shopno](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অন্ধকারে খুঁজি আমি তোমার চেনা ঘ্রাণ
+> শিরা উপশিরায় বহে নেশার মতো টান
+> আমার চোখে স্বপ্ন তোমার, বুকের ভেতর ঝড়
+> কাছে এসো আরো কাছে, ভেঙ্গো না এ প্রহর
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
