@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shosta Shopno
+
+This log tracks the cryptographic history and versioning for the song **Shosta Shopno** (shosta-shopno).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:07:12.039708 | `v1` | `0973d8c857167f28c0a9b4099691d109d46e67f3314b69567a553e1491050ae5` | `00779eb0ceb4d3e036fa60750756ee1803f337b67a97e1e21c5d6c0f197e19d7` | `2026-05-08_shosta-shopno-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
